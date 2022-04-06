@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EMVERBI\\Desktop\\Eduardo\\Courses\\APIs\\ContosoPizza\\ContosoPizza.csproj": {}
+    "D:\\Projetos\\ContosoPizza\\ContosoPizza.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EMVERBI\\Desktop\\Eduardo\\Courses\\APIs\\ContosoPizza\\ContosoPizza.csproj": {
+    "D:\\Projetos\\ContosoPizza\\ContosoPizza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EMVERBI\\Desktop\\Eduardo\\Courses\\APIs\\ContosoPizza\\ContosoPizza.csproj",
+        "projectUniqueName": "D:\\Projetos\\ContosoPizza\\ContosoPizza.csproj",
         "projectName": "ContosoPizza",
-        "projectPath": "C:\\Users\\EMVERBI\\Desktop\\Eduardo\\Courses\\APIs\\ContosoPizza\\ContosoPizza.csproj",
-        "packagesPath": "C:\\Users\\EMVERBI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EMVERBI\\Desktop\\Eduardo\\Courses\\APIs\\ContosoPizza\\obj\\",
+        "projectPath": "D:\\Projetos\\ContosoPizza\\ContosoPizza.csproj",
+        "packagesPath": "C:\\Users\\Eduardo\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\ContosoPizza\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\EMVERBI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Eduardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
